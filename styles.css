@@ -30,8 +30,12 @@ nav a {
 }
 
 .home {
+    display: block; 
+    border: 1px solid white;
     max-width: 800px;
     margin: 20px auto;
+    margin-left: 28%;
+    margin-right: 28%;
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
